@@ -1,6 +1,6 @@
 # Projeto: Challange Amigo Secreto 🎁
 
-Este projeto é um sorteador de "Amigo Secreto" feito em HTML, CSS e JavaScript.
+O projeto é um sorteador de "Amigo Secreto" feito em HTML, CSS e JavaScript.
 
 ## Funcionalidades:
 - Adicionar nomes de amigos.
